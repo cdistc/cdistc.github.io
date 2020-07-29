@@ -1,4 +1,5 @@
 ---
+type: post
 title: IDEA Plugin
 description: IDEA Plugin
 categories:
